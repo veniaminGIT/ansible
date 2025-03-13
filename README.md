@@ -1,3 +1,4 @@
 # ansible
 
-Acesta este un text.
+Acesta este un text
+Raluca.
